@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fMercury/DeepLearningEAIA/master)
+
 # Deep Learning Tutorial
 
 ### Deep Learning tutorial in Python using Keras and Tensorboard for the 2017 "Argentinian School in Artificial Intelligence" (EAIA)
@@ -15,4 +17,3 @@ welcome!
 
 Enjoy!
 
-Cristian and Milagro
